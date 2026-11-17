@@ -1,4 +1,4 @@
-# Hi, I'm Moni
+# Hi, I'm Moni Kumari
 
 Senior software engineer in test, moving into **application security**.
 
@@ -12,8 +12,8 @@ All projects use a fictional company, **Northstar Orders**, with synthetic data 
 
 | Repo | What it shows | Status |
 | --- | --- | --- |
-| [appsec-notes](https://github.com/pandeymoni08-alt/appsec-notes) | Lab write-ups and finding reports (PortSwigger Web Security Academy, OWASP) | In progress |
-| northstar-secure-saas-api | Multi-tenant .NET API. I plant authorization flaws, fix them, and prove each fix with regression and bypass tests. | Starting soon |
+| [appsec-notes](https://github.com/moni-kumari-sec/appsec-notes) | Lab write-ups and finding reports (PortSwigger Web Security Academy, OWASP) | In progress |
+| [northstar-secure-saas-api](https://github.com/moni-kumari-sec/northstar-secure-saas-api) | Multi-tenant .NET API. I plant authorization flaws, fix them, and prove each fix with regression and bypass tests. | Starting |
 | northstar-appsec-ci | Semgrep and Trivy in GitHub Actions with a simple triage script | Planned |
 | northstar-ai-agent-evals | Security tests for an AI support agent: prompt injection and tool permissions | Planned |
 
