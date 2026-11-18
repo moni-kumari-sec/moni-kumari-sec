@@ -2,9 +2,9 @@
 
 Senior software engineer in test, moving into **application security**.
 
-For 7+ years I built test automation and backend features in Java and C# (.NET Core), with Kafka, RabbitMQ, Conductor and Jenkins. Now I find, fix, and regression-test security flaws in web APIs, and I write up what I learn.
+For 7+ years I built test automation and backend features in Java and C# (.NET Core), with Kafka, RabbitMQ, Conductor and Jenkins. I'm now moving into application security and building a public portfolio: hands-on labs, a C# API with authorization flaws that are fixed and proven by tests, and security scans in CI. I write up what I learn.
 
-**Looking for:** remote Application Security / Product Security roles (entry-level and mid-level).
+**Looking for:** entry-level remote Application Security / Product Security roles.
 
 ## What I'm building
 
@@ -16,7 +16,7 @@ All projects use a fictional company, **Northstar Orders**, with synthetic data 
 | [appsec-notes](https://github.com/moni-kumari-sec/appsec-notes) | Lab write-ups and finding reports (PortSwigger Web Security Academy, OWASP) | In progress |
 | northstar-ai-agent-evals *(planned)* | Security tests for an AI support agent: prompt injection and tool permissions | Planned |
 
-## What I work on
+## What I'm learning and practicing
 
 - **Web and API security:** broken object-level and function-level authorization, mass assignment, injection, authentication and session flaws
 - **Secure code review and threat modeling:** STRIDE, data-flow diagrams, line-level fixes
